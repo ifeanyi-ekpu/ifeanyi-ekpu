@@ -17,11 +17,11 @@ Here are some of the technologies and tools I'm currently learning:
 
 Here are some of the projects I'm working on or have completed as part of my learning journey:
 
-1. **Project Name**: [Quiz App]([https://github.com/ifeanyi-ekpu/quiz_app](https://github.com/me50/ifeanyi-ekpu/tree/40cb85394d0322331a0c37c8de65f700b89a94fe))
+1. **Project Name**: [Quiz App](https://github.com/me50/ifeanyi-ekpu/tree/40cb85394d0322331a0c37c8de65f700b89a94fe)
    - **Description**: A Python-based quiz application created as part of CS50's Python course. It allows users to take quizzes and view their scores.
    - **Technologies**: Python
 
-2. **CS50 Python Projects**: [All_CS50P_Projects]([https://submit.cs50.io/courses/1202])
+2. **CS50 Python Projects**: [All_CS50P_Projects](https://submit.cs50.io/courses/1202)
    - **Description**: Various small projects from Harvard's CS50 Python course, including problem sets and assignments.
    - **Technologies**: Python
 
