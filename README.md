@@ -1,6 +1,6 @@
 # Hi, I'm Ifeanyi Ekpunobi
 
-I'm a beginner in backend development, currently learning through [Boot.dev](https://www.boot.dev/tracks/backend) and [CS50's Python Course](https://cs50.harvard.edu/python/2022/). I'm passionate about building efficient and scalable server-side applications and am excited to grow my skills in this field.
+I'm a beginner in backend development, currently learning through [Odin Project](https://www.theodinproject.com/) and [CS50's Python Course](https://cs50.harvard.edu/python/2022/). I'm passionate about building efficient and scalable server-side applications and am excited to grow my skills in this field.
 
 ## Technologies & Tools
 
@@ -8,10 +8,10 @@ Here are some of the technologies and tools I'm currently learning:
 
 - **Programming Languages**: Python, JavaScript (Node.js)
 - **Frameworks**: Express.js
-- **Databases**: SQL (via CS50), MongoDB (via Boot.dev)
+- **Databases**: SQL 
 - **Version Control**: Git, GitHub
 - **APIs**: RESTful APIs
-- **Other Tools**: Postman
+- **Other Tools**: 
 
 ## Projects
 
@@ -29,7 +29,6 @@ Here are some of the projects I'm working on or have completed as part of my lea
 
 I'm actively learning backend development through the following platforms:
 
-- **[Boot.dev Backend Track](https://www.boot.dev/tracks/backend)**: Focusing on backend fundamentals, APIs, databases, and more.
 - **[CS50's Python Course](https://cs50.harvard.edu/python/2022/)**: Building a strong foundation in Python and problem-solving.
 
 ## Let's Connect
